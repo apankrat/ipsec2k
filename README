@@ -127,13 +127,22 @@ CLEANUP
   from the registry.
 
 
-PROLOGUE
+EPILOGUE
 
   That's about it. Not exactly a field theory, so just poke around the
   main.cpp example and the library code if there are any questions. 
   
   For bugs, fixes (cert-based authentication in particular) and for all
   other stuff the email is ap-at-cipherica.com
+
+
+REFERENCES
+
+  (1) Windows 2000 ipsecpol.exe Tool Version 1.22
+      http://agent.microsoft.com/windows2000/techinfo/reskit/tools/existing/ipsecpol-o.asp
+  
+  (2) Windows 2000 VPN Tool
+      http://vpn.ebootis.de/
 
 
 VERSION HISTORY
@@ -146,10 +155,3 @@ VERSION HISTORY
 	- initial public release
 
 
-REFERENCES
-
-  (1) Windows 2000 ipsecpol.exe Tool Version 1.22
-      http://agent.microsoft.com/windows2000/techinfo/reskit/tools/existing/ipsecpol-o.asp
-  
-  (2) Windows 2000 VPN Tool
-      http://vpn.ebootis.de/
